@@ -44,6 +44,3 @@ client.updatePassword('YourCurrentPassword', 'YourNewPassword', 'YourNewPassword
 serverName = client.getServerName('ServerId')
 serverSftpIp = client.getServerSftpIp('ServerId')
 ```
-
-[My website]: http://danielros.eu/
-[Ptero host]: https://craftnodenetwork.nl/
