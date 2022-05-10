@@ -11,8 +11,6 @@ I have made this API because it didn't exist for the v1 API, I needed it and I h
 At the moment I only made the Client API but I am working on the Application API and I hope it will be available in a few weeks.
 Also I still need to add a few methods to send commands to your server, change the power state and list your API keys, servers and permissions.
 
-A documentation will be available in a few days.
-
 ## Getting started
 
 As mentioned above, Pterodactyl has two APIs: Client and Application. Both need a different API key, any user can make an API key for the client API and only admins can make a key for the Application API
