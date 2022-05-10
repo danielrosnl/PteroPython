@@ -1,6 +1,6 @@
 # PteroPython (no longer maintained)
 
-**PROJECT NO LONGE MAINTAINED**
+**PROJECT NO LONGER MAINTAINED**
 Pterodactyl v1 API for Python
 
 *This project is no longer maintained, I currently have other things to do and the Pydactyl API has recently updated to 1.x as well which is much better since this project was never completed. Therefor I recommend you to use Pydacttyl instead of PteroPython*
